@@ -59,7 +59,7 @@ public class Test {
 		t1.testOgnCacheManager();
 		//t1.getRandomSeqInt();
 
-		//t1.regExpTest();
+		t1.regExpTest();
 		
 		/*System.out.println(new SimpleDateFormat("yyyy-MM-dd").parseObject("2014-02-13"));
 		SimpleDateFormat formatter = new SimpleDateFormat("yyyy/MM/dd");
