@@ -54,7 +54,7 @@ public class Test {
 		
 		DOMConfigurator.configure("log4j.xml");
 
-		Test t1 = new Test();
+		Test t1 = new Test(); 
 		//t1.testXMemcached();
 		t1.testOgnCacheManager();
 		//t1.getRandomSeqInt();
